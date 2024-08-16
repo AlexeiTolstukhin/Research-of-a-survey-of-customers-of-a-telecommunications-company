@@ -1,4 +1,3 @@
-# Research-of-a-survey-of-customers-of-a-telecommunications-company
 # Исследование опроса клиентов телекомунникацонной компании
 
 
